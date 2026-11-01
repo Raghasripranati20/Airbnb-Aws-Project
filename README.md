@@ -120,17 +120,7 @@ AWS_DBT_Snowflake/
     └── seeds/                          # Static reference data
 ```
 
-## 🚀 Getting Started
 
-### Prerequisites
-
-1. **Snowflake Account (will create one if doesn't exist)**
-
-2. **Python Environment**
-   - Python 3.12 or higher
-   - pip or uv package manager
-
-3. **AWS Account (will create one if doesn't exist) ** (for S3 storage)
 
 ### Installation
 
